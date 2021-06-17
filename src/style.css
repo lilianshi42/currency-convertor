@@ -5,18 +5,20 @@
 
 .site-layout-content {
   font-size: 120%;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  padding-top: 15%;
-  padding-bottom: 15%;
   padding-right: 15%;
   padding-left: 15%;
   min-height: 500px;
-  background: rgb(199, 215, 218);
 }
 
 .MainPage {
   text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1503480207415-fdddcc21d5fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size:cover;
+  vertical-align: middle;
+  padding: 18.5%;
 }
 
 h1 {
